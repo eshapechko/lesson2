@@ -1,0 +1,23 @@
+body {
+  font-family: Verdana;
+  padding-left: 300px;
+}
+
+h1 {
+  color: rgb(179, 44, 44);
+  font-size: 50px;
+}
+h2 {
+  font-weight: normal;
+}
+p {
+  font-size: 20px;
+  color: rgb(83, 82, 82);
+  max-width: 400px;
+}
+a {
+  color: #000;
+  text-decoration: none;
+  letter-spacing: 3px;
+  font-size: 25px;
+}
